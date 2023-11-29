@@ -1,0 +1,14 @@
+D:\kozinovdocs\C#1\bin\Debug\net7.0\C#1.exe
+D:\kozinovdocs\C#1\bin\Debug\net7.0\C#1.deps.json
+D:\kozinovdocs\C#1\bin\Debug\net7.0\C#1.runtimeconfig.json
+D:\kozinovdocs\C#1\bin\Debug\net7.0\C#1.dll
+D:\kozinovdocs\C#1\bin\Debug\net7.0\C#1.pdb
+D:\kozinovdocs\C#1\obj\Debug\net7.0\C#1.GeneratedMSBuildEditorConfig.editorconfig
+D:\kozinovdocs\C#1\obj\Debug\net7.0\C#1.AssemblyInfoInputs.cache
+D:\kozinovdocs\C#1\obj\Debug\net7.0\C#1.AssemblyInfo.cs
+D:\kozinovdocs\C#1\obj\Debug\net7.0\C#1.csproj.CoreCompileInputs.cache
+D:\kozinovdocs\C#1\obj\Debug\net7.0\C#1.dll
+D:\kozinovdocs\C#1\obj\Debug\net7.0\refint\C#1.dll
+D:\kozinovdocs\C#1\obj\Debug\net7.0\C#1.pdb
+D:\kozinovdocs\C#1\obj\Debug\net7.0\C#1.genruntimeconfig.cache
+D:\kozinovdocs\C#1\obj\Debug\net7.0\ref\C#1.dll
